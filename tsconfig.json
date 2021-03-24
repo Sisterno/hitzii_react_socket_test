@@ -73,7 +73,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "components/Contexto.jsx", "src/socket/socket.js", "pages/index.jsx"  ],
   "exclude": [
     "node_modules"
   ]
